@@ -18,7 +18,7 @@ ChatGPT from the terminal
 chatgpt "question?"
 ```
 
-####Example:
+#### Example:
 
 ```
 $ chatgpt "how much is 1+1?"
