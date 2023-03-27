@@ -15,7 +15,7 @@ ChatGPT from the terminal
 ### Usage
 
 ```
-chatgpt "question?"
+$ chatgpt "question?"
 ```
 
 #### Example:
